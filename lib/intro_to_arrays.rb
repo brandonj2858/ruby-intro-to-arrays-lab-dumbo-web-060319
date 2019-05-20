@@ -2,5 +2,6 @@ def instantiate_new_array
   array = []
 end
 
-def 
+def array_with_two_elements
+  arraytwo = ["Bill Gates", "Steve Jobs"]
 
