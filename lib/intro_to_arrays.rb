@@ -9,3 +9,7 @@ end
 def first_element(taylor_swift)
   taylor_swift.shift()
 end
+
+def third_element(taylor_swift)
+  taylor_swift[2]
+end
