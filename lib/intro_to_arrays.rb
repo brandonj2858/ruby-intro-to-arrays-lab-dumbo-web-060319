@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element(taylor_swift)
-  taylor_swift.unshift()
+  taylor_swift.shift()
 end
