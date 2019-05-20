@@ -22,4 +22,7 @@ def first_element_with_array_methods(south_east_asia)
   south_east_asia.shift()
 end
 
-def 
+def last_element_with_array_methods(south_east_asia)
+  south_east_asia.pop()
+end
+
