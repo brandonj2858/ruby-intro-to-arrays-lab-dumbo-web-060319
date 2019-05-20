@@ -27,5 +27,5 @@ def last_element_with_array_methods(south_east_asia)
 end
 
 def length_of_array(programming_languages)
-  length_of_array.length()
+  programming_languages()
 end
